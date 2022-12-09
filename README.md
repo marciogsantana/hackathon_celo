@@ -1,13 +1,21 @@
-# Big Game Survey 
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/devsuperior/sds1-wmazoni/blob/master/LICENSE) 
+# Projeto Hackthon Celo
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/marciogsantana/hackathon_celo/blob/main/LICENCE) 
 
 # Sobre o projeto
 
-https://wmazoni-sds1.netlify.app
+### E se no futuro….
+- Fosse fácil registrar um grande volume de imóveis 
+- Comunicar de forma transparente atividades e ações entre muitos órgãos.
+- Trazer maior transparência aos processos internos
+- Monitorar futuras ações envolvendo tais propriedades?
 
-Big Game Survey é uma aplicação full stack web e mobile construída durante a 1ª edição da **Semana DevSuperior** (#sds1), evento organizado pela [DevSuperior](https://devsuperior.com "Site da DevSuperior").
+### O Futuro Chegou!! Este projeto implementa:
 
-A aplicação consiste em uma pesquisa de preferência de games, onde os dados são coletados no app mobile, e depois são listados no app web, que também apresenta um dashboard com gráficos baseados nestes dados.
+- Coleta de dados via SPU Net 
+- Registro em blockchain usando o protocolo erc721
+- Emissão de títulos com força de escritura pública a partir de informações onchain
+
+
 
 ## Layout mobile
 ![Mobile 1](https://github.com/acenelio/assets/raw/main/sds1/mobile1.png) ![Mobile 2](https://github.com/acenelio/assets/raw/main/sds1/mobile2.png)
