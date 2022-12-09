@@ -17,69 +17,60 @@
 
 
 
-## Layout mobile
-![Mobile 1](https://github.com/acenelio/assets/raw/main/sds1/mobile1.png) ![Mobile 2](https://github.com/acenelio/assets/raw/main/sds1/mobile2.png)
+## Layout Front End
+![Front1](https://github.com/marciogsantana/imagens/blob/main/imagem_front.png) ![Front 2](https://github.com/marciogsantana/imagens/blob/main/imagem_front2.png)
 
-## Layout web
-![Web 1](https://github.com/acenelio/assets/raw/main/sds1/web1.png)
+## blockscout da rede alfajor,
+![Blockscout](https://github.com/marciogsantana/imagens/blob/main/block.png)  
 
-![Web 2](https://github.com/acenelio/assets/raw/main/sds1/web2.png)
+## Metados IPFS,
+![IPFS](https://github.com/marciogsantana/imagens/blob/main/metadas_pinata.png)  
 
-## Modelo conceitual
-![Modelo Conceitual](https://github.com/acenelio/assets/raw/main/sds1/modelo-conceitual.png)
+## Imagem IPFS,
+![IPFS Imaggem](https://github.com/marciogsantana/imagens/blob/main/metadas_pinata_imagem.png)  
+
 
 # Tecnologias utilizadas
 ## Back end
-- Java
-- Spring Boot
-- JPA / Hibernate
-- Maven
+- Javascript
+- NodeJs
+- Solidity
+- Truffle
+- Ganache (testes rápidos)
+- Pinata
+- Alchemy
+- Redes de testes Alfatore Blockchain Celo
 ## Front end
 - HTML / CSS / JS / TypeScript
 - ReactJS
 - React Native
-- Apex Charts
-- Expo
-## Implantação em produção
-- Back end: Heroku
-- Front end web: Netlify
-- Banco de dados: Postgresql
+## Iniciar o projeto
 
-# Como executar o projeto
-
-## Back end
-Pré-requisitos: Java 11
+# clonar repositório
+git clone https://github.com/marciogsantana/hackathon_celo.git
 
 ```bash
 # clonar repositório
 git clone https://github.com/devsuperior/sds1-wmazoni
 
-# entrar na pasta do projeto back end
-cd backend
+# alterar o arqvuivo .env
+inserir as chaves para autenticação
 
-# executar o projeto
-./mvnw spring-boot:run
-```
-
-## Front end web
-Pré-requisitos: npm / yarn
-
-```bash
-# clonar repositório
-git clone https://github.com/devsuperior/sds1-wmazoni
-
-# entrar na pasta do projeto front end web
-cd front-web
+# Na raiz do projeto
 
 # instalar dependências
-yarn install
+npm install
 
-# executar o projeto
-yarn start
+# fazer deploy do contrato na rede de testes Alfajore
+truffle migrate --network alfajore
+
+# executar o projeto dentro da pasta SRC
+npm start
+Acesse http://localhost:3000 para visualizar a página browser
 ```
 
 # Autor
 
-Wellington Mazoni de Andrade
+Márcio Gomes de Santana
 
-https://www.linkedin.com/in/wmazoni
+https://www.linkedin.com/in/marcio-gomes-de-santana-05347198/
