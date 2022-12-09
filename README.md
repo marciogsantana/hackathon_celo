@@ -21,7 +21,7 @@
 ![Front1](https://github.com/marciogsantana/imagens/blob/main/imagem_front.png) ![Front 2](https://github.com/marciogsantana/imagens/blob/main/imagem_front2.png)
 
 
-## blockscout da rede alfajor,
+## blockscout da rede alfajore
 ![Blockscout](https://github.com/marciogsantana/imagens/blob/main/block.png)  
 
 ## Metados IPFS,
