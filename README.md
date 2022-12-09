@@ -4,16 +4,16 @@
 # Sobre o projeto
 
 ### E se no futuro….
-- Fosse fácil registrar um grande volume de imóveis 
+- Fosse fácil registrar um grande volume de imóveis.
 - Comunicar de forma transparente atividades e ações entre muitos órgãos.
-- Trazer maior transparência aos processos internos
+- Trazer maior transparência aos processos internos.
 - Monitorar futuras ações envolvendo tais propriedades?
 
 ### O Futuro Chegou!! Este projeto implementa:
 
-- Coleta de dados via SPU Net 
-- Registro em blockchain usando o protocolo erc721
-- Emissão de títulos com força de escritura pública a partir de informações onchain
+- Coleta de dados via SPU Net. 
+- Registro em blockchain usando o protocolo erc721.
+- Emissão de títulos com força de escritura pública a partir de informações onchain.
 
 
 
