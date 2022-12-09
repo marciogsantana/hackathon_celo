@@ -51,8 +51,6 @@
 git clone https://github.com/marciogsantana/hackathon_celo.git
 
 ```bash
-# clonar repositório
-git clone https://github.com/devsuperior/sds1-wmazoni
 
 # alterar o arqvuivo .env
 inserir as chaves para autenticação
