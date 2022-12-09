@@ -18,9 +18,8 @@
 
 
 ## Layout Front End
-![Front1](https://github.com/marciogsantana/imagens/blob/main/imagem_front.png)
+![Front1](https://github.com/marciogsantana/imagens/blob/main/imagem_front.png)![Front 2](https://github.com/marciogsantana/imagens/blob/main/imagem_front2.png)
 
-![Front 2](https://github.com/marciogsantana/imagens/blob/main/imagem_front2.png)
 
 ## blockscout da rede alfajor,
 ![Blockscout](https://github.com/marciogsantana/imagens/blob/main/block.png)  
