@@ -21,7 +21,7 @@
 ![Front1](https://github.com/marciogsantana/imagens/blob/main/imagem_front.png) ![Front 2](https://github.com/marciogsantana/imagens/blob/main/imagem_front2.png)
 
 
-## blockscout da rede alfajore
+## blockscout da rede alfajores
 ![Blockscout](https://github.com/marciogsantana/imagens/blob/main/block.png)  
 
 ## Metados IPFS,
@@ -40,7 +40,7 @@
 - Ganache (testes rápidos)
 - Pinata
 - Alchemy
-- Redes de testes Alfatore Blockchain Celo
+- Redes de testes Alfatores Blockchain Celo
 ## Front end
 - HTML / CSS / JS / TypeScript
 - ReactJS
@@ -60,8 +60,22 @@ inserir as chaves para autenticação
 # instalar dependências
 npm install
 
-# fazer deploy do contrato na rede de testes Alfajore
-truffle migrate --network alfajore
+# fazer deploy do contrato na rede de testes Alfajores
+truffle migrate --network alfajores
+
+# Caso apresente algum erro para fazer o deploy do contrato
+# acesse a pasta abis e delete todos os arquivos
+# execute novamente o comando truffle migrate --network alfajores
+# ao final da execução e esperado um resultado parecido com este
+> contract address:    0x46aaDee37975871e91D6041E8393590199576ED9
+   > block number:        15062764
+   > block timestamp:     1670678418
+   > account:             0x5F17446EA5B8967ad3fC7b649aE3F508fA2a6329
+   > balance:             1.9420483886
+   > gas used:            2338276 (0x23ade4)
+   > gas price:           2.6 gwei
+   > value sent:          0 ETH
+   > total cost:          0.0060795176 ETH
 
 # executar o projeto dentro da pasta SRC
 npm start
