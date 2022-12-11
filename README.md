@@ -3,7 +3,7 @@
 
 # Sobre o projeto
 
-### E se no futuro fo possível….
+### E se no futuro for possível….
 - Registrar um grande volume de imovéis de modo mais fácil?
 - Comunicar de forma transparente atividades e ações entre muitos órgãos?
 - Trazer maior transparência aos processos internos?
