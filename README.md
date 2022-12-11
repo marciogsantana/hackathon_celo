@@ -61,11 +61,8 @@ inserir as chaves para autenticação
 npm install
 
 # fazer deploy do contrato na rede de testes Alfajores
-truffle migrate --network alfajores
+truffle migrate --network alfajores --reset
 
-# Caso apresente algum erro para fazer o deploy do contrato
-# acesse a pasta abis e delete todos os arquivos
-# execute novamente o comando truffle migrate --network alfajores
 # ao final da execução e esperado um resultado parecido com este
 > contract address:    0x46aaDee37975871e91D6041E8393590199576ED9
    > block number:        15062764
@@ -77,7 +74,9 @@ truffle migrate --network alfajores
    > value sent:          0 ETH
    > total cost:          0.0060795176 ETH
 
-# executar o projeto dentro da pasta SRC
+# acessar pasta SRC
+# cd src
+# executar o comando abaixo
 npm start
 Acesse http://localhost:3000 para visualizar a página browser
 ```
