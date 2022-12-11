@@ -78,7 +78,7 @@ truffle migrate --network alfajores --reset
 # cd src
 # executar o comando abaixo
 npm start
-Acesse http://localhost:3000 para visualizar a página browser
+Acesse http://localhost:3000 para visualizar a página no browser
 ```
 
 # Autor
