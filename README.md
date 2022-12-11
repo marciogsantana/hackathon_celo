@@ -3,10 +3,10 @@
 
 # Sobre o projeto
 
-### E se no futuro….
-- Fosse fácil registrar um grande volume de imóveis.
-- Comunicar de forma transparente atividades e ações entre muitos órgãos.
-- Trazer maior transparência aos processos internos.
+### E se no futuro fo possível….
+- Registrar um grande volume de imovéis de modo mais fácil?
+- Comunicar de forma transparente atividades e ações entre muitos órgãos?
+- Trazer maior transparência aos processos internos?
 - Monitorar futuras ações envolvendo tais propriedades?
 
 ### O Futuro Chegou!! Este projeto implementa:
