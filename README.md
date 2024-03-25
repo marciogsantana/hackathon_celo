@@ -80,6 +80,14 @@ truffle migrate --network alfajores --reset
 npm start
 Acesse http://localhost:3000 para visualizar a página no browser
 ```
+## Imagem Trofeu,
+![Frente](https://github.com/marciogsantana/imagens/blob/main/trofeu_frente.png) ![Versu](https://github.com/marciogsantana/imagens/blob/main/Trofeu_verso.png)
+
+# Link Apresentação Pitch
+https://www.youtube.com/watch?v=5cKzGSgfoRo
+
+# Link cerimônia de premiação 
+https://www.serpro.gov.br/menu/noticias/noticias-2022/vencedores-do-hackathon-web3
 
 # Autor
 
