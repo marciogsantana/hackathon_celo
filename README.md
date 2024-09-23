@@ -93,4 +93,4 @@ https://www.serpro.gov.br/menu/noticias/noticias-2022/vencedores-do-hackathon-we
 
 Márcio Gomes de Santana
 
-https://www.linkedin.com/in/marcio-gomes-de-santana-05347198/
+https://www.linkedin.com/in/m%C3%A1rcio-gomes-de-santana-05347198/
